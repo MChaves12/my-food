@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import React from 'react'
-import RightChevron from './icons/RightChevron'
-import LearnMore from './icons/LearnMore'
+import RightChevron from '../icons/RightChevron'
+import LearnMore from '../icons/LearnMore'
 
 const Hero = () => {
   return (
